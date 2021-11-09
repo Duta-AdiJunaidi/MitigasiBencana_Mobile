@@ -1,0 +1,2 @@
+# MitigasiBencana_Mobile
+Apllikasi Mitigasi Bencana_Android
